@@ -1,3 +1,3 @@
 # wordadventure
-This is my first repository of git hub using for my project!
-Author-Sayali Kuswarkar
+This is my first repository of git hub used for my project!
+<br>Author-Sayali Kuswarkar</br>
